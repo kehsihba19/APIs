@@ -49,5 +49,16 @@ https://covid-status-india.herokuapp.com/state
 
 ##### **Example:** https://covid-status-india.herokuapp.com/state
 ---
+### **2) Wiki search**
+Show a short description of any topic.
+```sh
+https://kehsihba19-wiki.herokuapp.com/
+```
+##### Usage for Search Results:  
 
+```sh
+https://kehsihba19-wiki.herokuapp.com/data/?search={Topic_name}
+```
+##### **Example:** https://kehsihba19-wiki.herokuapp.com/data/?search=MKBHD
+---
 ### **Note:** ```The API is hosted on Heroku so it may be slow to respond.```
